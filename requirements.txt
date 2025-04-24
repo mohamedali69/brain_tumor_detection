@@ -1,0 +1,5 @@
+Flask
+tensorflow
+werkzeug
+numpy
+pillow
